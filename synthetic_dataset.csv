@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,age,city,signup_date,product_category,purchase_amount_kes,quantity,payment_method,satisfaction_score,is_repeat_customer
+CUST0001,Michael,Otieno,29.0,Nairobi,2024-01-21,Fashion,6836.99,7.0,nan,1.0,True
+CUST0002,,Chebet,56.0,Nakuru,2023-12-20,Electronics,4539.52,8.0,Card,3.0,True
+CUST0003,Njoroge,Wambui,19.0,Nairobi,2023-02-09,,5064.24,1.0,Bank Transfer,1.0,
+CUST0004,David,,20.0,Eldoret,2025-03-21,Toys,10153.27,6.0,Bank Transfer,,False
+CUST0005,Linda,Odhiambo,54.0,Nakuru,2024-06-03,Groceries,11335.14,1.0,nan,3.0,False
+CUST0006,Michael,Otieno,34.0,Machakos,2024-05-03,Fashion,11915.37,,,2.0,False
+CUST0007,Mutiso,Mwangi,19.0,Machakos,2024-11-23,Home & Living,11886.35,1.0,Card,3.0,False
+CUST0008,David,Otieno,19.0,Nyeri,2026-03-30,,1549.85,,Cash,5.0,False
+CUST0009,David,Kimani,45.0,Kisumu,2025-11-01,Health & Beauty,7517.42,9.0,Card,4.0,True
+CUST0010,,,40.0,Nairobi,2023-03-15,Home & Living,,6.0,nan,5.0,True
+CUST0011,,Njeri,54.0,Nairobi,2026-06-11,Books,8333.03,1.0,nan,2.0,False
+CUST0012,John,Otieno,49.0,Kisumu,,Sports,6734.65,1.0,M-Pesa,4.0,True
+CUST0013,,Mwangi,50.0,Thika,2023-02-12,Groceries,13338.02,2.0,nan,3.0,False
+CUST0014,Susan,Kimani,18.0,Nyeri,2026-06-14,Health & Beauty,5393.54,,,4.0,False
+CUST0015,,Mutiso,36.0,Thika,2026-06-04,Fashion,1932.59,,Cash,1.0,True
+CUST0016,,Njoroge,19.0,Thika,2025-07-02,,2316.28,1.0,Card,,True
+CUST0017,James,Wafula,61.0,,2026-03-13,Fashion,11470.36,5.0,Card,1.0,True
+CUST0018,Susan,Njeri,43.0,Kisumu,2026-01-01,Books,9349.63,7.0,,4.0,False
+CUST0019,Susan,Njoroge,49.0,Thika,2024-02-26,Electronics,1696.62,6.0,Card,1.0,True
+CUST0020,Kamau,Odhiambo,23.0,Machakos,2023-02-19,Groceries,1444.78,1.0,nan,2.0,False
+CUST0021,,Kariuki,49.0,Mombasa,2023-05-15,Toys,10574.34,5.0,Bank Transfer,5.0,
+CUST0022,Achieng,Wafula,21.0,Eldoret,2025-04-27,Health & Beauty,1276.89,,M-Pesa,3.0,False
+CUST0023,Njoroge,Wafula,28.0,Nairobi,2024-03-21,,12363.53,6.0,Card,,True
+CUST0024,Njoroge,,,Nairobi,2023-01-10,Groceries,10652.38,3.0,M-Pesa,5.0,True
+CUST0025,Mutiso,,55.0,Eldoret,2023-08-30,Groceries,1403.96,5.0,,3.0,False
+CUST0026,Susan,Chebet,41.0,Kisumu,2023-01-13,Sports,1455.6,7.0,Bank Transfer,3.0,
+CUST0027,Akinyi,Cheruiyot,22.0,Nakuru,2025-11-11,Groceries,14802.27,5.0,nan,1.0,True
+CUST0028,John,Otieno,51.0,Kisumu,2025-06-12,Fashion,5739.21,5.0,M-Pesa,2.0,
+CUST0029,Robert,Wafula,23.0,Nairobi,2023-01-07,Electronics,5685.5,5.0,Card,,
+CUST0030,Mutiso,,39.0,,2023-07-16,Books,12229.43,3.0,Cash,5.0,False
+CUST0031,,Mwangi,28.0,Eldoret,2024-10-21,Home & Living,14219.28,,M-Pesa,2.0,True
+CUST0032,William,Wanjiru,33.0,Thika,2025-05-13,Groceries,14792.82,5.0,M-Pesa,4.0,False
+CUST0033,Michael,Cheruiyot,50.0,Kisumu,2025-04-09,Health & Beauty,11350.0,,Bank Transfer,,True
+CUST0034,,Wanjiru,,nan,2025-08-09,Groceries,5768.64,1.0,nan,5.0,True
+CUST0035,Patricia,Njeri,23.0,,2023-02-12,Health & Beauty,1435.81,3.0,Cash,,True
+CUST0036,Otieno,Kimani,33.0,Machakos,2026-02-22,Fashion,11701.77,4.0,Card,4.0,True
+CUST0037,Wambui,Njoroge,46.0,,2025-06-12,Health & Beauty,8464.38,1.0,Cash,1.0,
+CUST0038,William,Njoroge,20.0,Eldoret,2024-07-15,Toys,6478.49,1.0,,5.0,False
+CUST0039,Mary,Cheruiyot,37.0,Kisumu,2024-10-25,Home & Living,13614.04,8.0,nan,1.0,
+CUST0040,Akinyi,Wafula,53.0,Nairobi,,Electronics,1845.72,2.0,Card,1.0,True
+CUST0041,Njoroge,,,Nakuru,2023-06-25,,,8.0,Bank Transfer,1.0,True
+CUST0042,Michael,,43.0,Eldoret,2024-08-30,Health & Beauty,368.03,7.0,Bank Transfer,3.0,True
+CUST0043,Susan,Wanjiru,20.0,Nyeri,2023-04-30,Electronics,7136.18,2.0,,,False
+CUST0044,Linda,Cheruiyot,36.0,Nairobi,2024-01-26,Home & Living,,6.0,Bank Transfer,1.0,True
+CUST0045,Njoroge,Njoroge,37.0,Kisumu,,Groceries,1958.51,6.0,Cash,5.0,
+CUST0046,John,Odhiambo,,Mombasa,2026-01-14,,1939.39,3.0,nan,4.0,False
+CUST0047,Otieno,Otieno,24.0,nan,2025-01-03,Electronics,9808.31,2.0,Card,4.0,False
+CUST0048,Kamau,Achieng,58.0,Thika,2023-01-21,Toys,11241.46,,Card,,False
+CUST0049,Patricia,Chebet,50.0,,2024-04-16,,8833.86,6.0,Bank Transfer,5.0,False
+CUST0050,Wambui,Kamau,57.0,Machakos,2024-08-05,Fashion,14440.15,5.0,Bank Transfer,3.0,False
+CUST0051,Linda,Mutiso,56.0,Machakos,,Electronics,,9.0,M-Pesa,,True
+CUST0052,Patricia,Cheruiyot,35.0,,2025-03-14,Fashion,,1.0,nan,2.0,True
+CUST0053,Mary,,,Thika,2025-08-06,,13055.27,7.0,Cash,4.0,False
+CUST0054,Jennifer,Kariuki,18.0,Nyeri,,Home & Living,3509.22,5.0,Card,3.0,
+CUST0055,,Kimani,28.0,,,Groceries,14455.69,5.0,M-Pesa,,True
+CUST0056,Patricia,Achieng,45.0,Mombasa,2023-07-23,Electronics,379.89,2.0,M-Pesa,1.0,False
+CUST0057,Wambui,,42.0,Nairobi,,,14554.21,3.0,Card,4.0,
+CUST0058,Susan,Chebet,40.0,Machakos,2026-02-10,Toys,838.77,7.0,Cash,5.0,True
+CUST0059,Mary,Chebet,,Nairobi,2026-06-29,Toys,13388.92,,M-Pesa,3.0,False
+CUST0060,Elizabeth,Chebet,47.0,nan,2023-08-23,Books,8009.98,,M-Pesa,1.0,False
+CUST0061,Patricia,,59.0,Thika,2023-05-07,Sports,14895.88,6.0,nan,5.0,False
+CUST0062,Otieno,Njeri,52.0,Nyeri,2025-04-22,Toys,,2.0,Cash,,True
+CUST0063,,,24.0,,2026-05-16,,,2.0,,3.0,True
+CUST0064,Njoroge,Odhiambo,33.0,Kisumu,2026-03-14,Home & Living,14545.68,,Cash,5.0,True
+CUST0065,Linda,Mutiso,43.0,Mombasa,2025-04-15,Electronics,7941.85,3.0,Card,5.0,False
+CUST0066,Otieno,,19.0,,2026-01-03,Books,9515.1,2.0,Bank Transfer,5.0,False
+CUST0067,Linda,Chebet,18.0,Machakos,2024-08-01,Health & Beauty,10497.08,4.0,M-Pesa,,True
+CUST0068,Achieng,Kariuki,29.0,Nyeri,,Books,6927.21,,nan,3.0,False
+CUST0069,,,22.0,nan,2024-08-03,,9487.86,6.0,Card,,
+CUST0070,,Njeri,54.0,Nakuru,2024-11-29,Fashion,8847.85,1.0,Cash,4.0,False
+CUST0071,Njoroge,Mwangi,49.0,Nakuru,2024-06-25,Electronics,,,Card,1.0,False
+CUST0072,Wanjiru,,26.0,Nairobi,2025-01-30,,872.61,7.0,M-Pesa,5.0,
+CUST0073,William,Kariuki,58.0,Machakos,2023-02-12,Electronics,4358.26,,,2.0,True
+CUST0074,Njoroge,,52.0,Kisumu,2023-06-05,,14266.09,1.0,Bank Transfer,,False
+CUST0075,,Njeri,36.0,Nyeri,2023-02-21,Sports,13375.9,5.0,Card,2.0,True
+CUST0076,James,Kariuki,33.0,Mombasa,2024-09-25,Home & Living,6943.72,4.0,M-Pesa,,False
+CUST0077,Michael,Wanjiru,20.0,Mombasa,,,9377.96,8.0,nan,5.0,True
+CUST0078,,Cheruiyot,37.0,Nyeri,2023-05-02,Electronics,4305.24,1.0,Cash,,False
+CUST0079,James,Kariuki,41.0,Thika,2023-11-29,,2984.19,1.0,Card,1.0,True
+CUST0080,Susan,Otieno,50.0,Kisumu,2026-01-03,,7062.74,,Card,1.0,False
+CUST0081,Linda,Njoroge,41.0,nan,2024-02-06,Fashion,5429.61,8.0,Bank Transfer,1.0,True
+CUST0082,David,Achieng,28.0,Thika,2023-11-14,Fashion,8838.11,5.0,Bank Transfer,1.0,False
+CUST0083,,Wambui,25.0,Thika,2025-05-15,Electronics,1350.47,2.0,nan,2.0,True
+CUST0084,Kamau,Odhiambo,53.0,Nairobi,2023-12-02,Home & Living,14621.04,6.0,nan,5.0,False
+CUST0085,Linda,Kariuki,55.0,Nakuru,2026-03-11,Home & Living,14795.92,5.0,M-Pesa,3.0,True
+CUST0086,John,Njeri,57.0,,2026-03-03,Health & Beauty,10532.79,2.0,M-Pesa,3.0,True
+CUST0087,John,Kimani,37.0,Thika,2024-07-20,Electronics,8134.23,3.0,nan,3.0,False
+CUST0088,James,,52.0,Eldoret,2023-05-16,Fashion,4781.01,,,3.0,False
+CUST0089,Robert,Otieno,42.0,Nairobi,2025-09-06,Home & Living,12244.17,7.0,Cash,2.0,True
+CUST0090,,,52.0,Machakos,2024-10-06,Electronics,10334.02,7.0,Bank Transfer,4.0,False
+CUST0091,,Chebet,42.0,Eldoret,2025-11-05,Books,,,M-Pesa,5.0,True
+CUST0092,William,Wambui,46.0,Eldoret,2024-10-16,Home & Living,13681.72,8.0,Bank Transfer,1.0,True
+CUST0093,Michael,Wafula,35.0,Nyeri,2024-06-24,Sports,12373.55,4.0,Bank Transfer,4.0,True
+CUST0094,William,Odhiambo,63.0,Nakuru,2025-06-28,Books,14257.04,8.0,nan,3.0,False
+CUST0095,Linda,Achieng,35.0,Thika,2023-06-24,,10940.65,4.0,Cash,4.0,
+CUST0096,Susan,Wambui,19.0,Nakuru,2025-10-28,Home & Living,,,Card,5.0,True
+CUST0097,Mary,Kariuki,52.0,,2024-12-15,Fashion,6390.0,9.0,Cash,1.0,False
+CUST0098,James,Wanjiru,,Nyeri,,Groceries,14004.38,3.0,,1.0,False
+CUST0099,Achieng,Mwangi,58.0,Machakos,2023-07-17,Books,13017.75,3.0,Bank Transfer,5.0,
+CUST0100,Robert,,,Nakuru,2023-02-16,Toys,,2.0,Cash,5.0,False
